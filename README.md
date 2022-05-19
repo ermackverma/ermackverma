@@ -1,0 +1,9 @@
+👋 Hi, I’m @ermackverma
+- 👀 I’m interested in Data Science...
+- 🌱 I’m currently learning Python and other Data Science Tools...
+- 💞️ I’m looking to collaborate on DS Projects and kaggle competitions...
+- 📫 How to reach me er.mackverma@gmail.com 
+<!---
+ermackverma/ermackverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
